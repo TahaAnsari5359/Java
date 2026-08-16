@@ -14,10 +14,14 @@ public class percentage_cal {
         System.out.println("Physics: ");
         float m5 = sc.nextFloat();
 
+
         float marks_obt = m1+m2+m3+m4+m5;
         float form = (marks_obt/500) * 100;
+        float cgpa = (form/9.5f);
+
         System.out.println("Total Marks Obtained: "+ marks_obt);
         System.out.println("Percentage: "+ form+"%");
+        System.out.println("CGPA: "+ cgpa);
 
 
     }
