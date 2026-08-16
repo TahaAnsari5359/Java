@@ -16,8 +16,9 @@ public class percentage_cal {
 
         float marks_obt = m1+m2+m3+m4+m5;
         float form = (marks_obt/500) * 100;
+        System.out.println("Total Marks Obtained: "+ marks_obt);
         System.out.println("Percentage: "+ form+"%");
-        
+
 
     }
 }
