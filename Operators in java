@@ -1,5 +1,5 @@
 Arithmetic operators ->  +, -, *, /, %, ++, --
-Assignment operator ->   =, +=
+Assignment operator ->   =, +=, -=, *=, /=
 Comparision operators -> ==, <=, >=
 LOgical operators ->     &&, ||, !
 Bitwise operator ->      &, | 
