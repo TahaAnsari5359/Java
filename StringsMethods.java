@@ -39,6 +39,13 @@ public class StringsInJava {
         System.out.println(namess.equals("harry"));
 
         System.out.println(namess.equalsIgnoreCase("HARRY")); //Doesnt matter caps or small just need same char
+
+        
+        // EScape sequence characters------------------------------------------------------------------
+        System.out.println("For using double quotes \" \" ") ;
+        System.out.println("For new line \n hii");
+        System.out.println("For creating a tab space \t Tab created");
+        System.out.println("For using backslah use \\");
     }
 
 }
