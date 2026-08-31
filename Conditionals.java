@@ -15,7 +15,7 @@ public class conditionals {
             System.out.println("You Cannot Drive");
         }
 
-        System.out.println("Switch Statements: ");
+       
 
     }
 }
