@@ -32,6 +32,12 @@ public class arrrayss {
             System.out.println(subsjects[i]);
         }
 
+        //For each loop -
+        System.out.println("For Each Loop");
+        for (String element: subsjects){
+            System.out.println(element);
+        }
+
 
 
 
